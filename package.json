@@ -1,0 +1,22 @@
+{
+  "name": "sass-work",
+  "version": "1.0.0",
+  "description": "Learning Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pushpenderthakur/Sass-work.git"
+  },
+  "author": "Pushpender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pushpenderthakur/Sass-work/issues"
+  },
+  "homepage": "https://github.com/pushpenderthakur/Sass-work#readme",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
